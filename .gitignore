@@ -161,3 +161,4 @@ cython_debug/
 *.csv
 *.xls
 data/olist.db
+*.joblib
